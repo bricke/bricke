@@ -15,26 +15,36 @@ I build embedded systems, native GUIs, and low-level infrastructure — mostly i
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="40%">
+
 ## Skills
 
 ```
-Qt / QML        ████████████████████  90%
-Yocto / Linux   ████████████████░░░░  80%
-C / C++         ██████████████░░░░░░  70%
-Bash / Arduino  ███████████████░░░░░  75%
-Python          ████████████░░░░░░░░  60%
-Android / Java  █████████████░░░░░░░  65%
+Qt / QML        ████████████  90%
+Yocto / Linux   ████████████  80%
+Bash / Arduino  ███████████   75%
+C / C++         ██████████    70%
+Android / Java  █████████     65%
+Python          █████████     60%
 ```
 
----
+</td>
+<td valign="top" width="60%">
 
 ## Projects
 
 | Project | Description | Lang |
 |---|---|---|
 | [Qt-AES](https://github.com/bricke/Qt-AES) | Native Qt AES encryption class (ECB, CBC, CFB, OFB) | C++ |
+| [tiny-AES-C](https://github.com/bricke/tiny-AES-C) | Small portable AES128 in C | C |
 | [bacaro](https://github.com/bricke/bacaro) | Reliable brokerless message bus for IPC | C++ |
-| [MnemoQ](https://github.com/bricke/MnemoQ) | The MQTT client that remembers | C++ | Obsolete
+| [MnemoQ](https://github.com/bricke/MnemoQ) | The MQTT client that remembers -Obsolete- | C++ |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,4 +52,3 @@ Android / Java  █████████████░░░░░░░  65
 
 - 🌐 [mattbrichese.com](http://mattbrichese.com)
 - 💼 [GitHub](https://github.com/bricke)
-
