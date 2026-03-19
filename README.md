@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi, I'm Matt 👋
 
-<!--
-**bricke/bricke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in **California**, originally from Venice, Italy.
+I build embedded systems, native GUIs, and low-level infrastructure — mostly in C/C++.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- 🏢 Working at **ICS Inc**
+- 🎓 Computer Science — Ca'Foscari University of Venice
+- 🔐 Author of [Qt-AES](https://github.com/bricke/Qt-AES) — a native AES encryption class for Qt (500+ ⭐)
+- 📡 Interested in messaging protocols: ZeroMQ, MQTT, brokerless IPC
+- 🛠 Enjoy: outdoor, biking, photography, metal fabrication
+
+---
+
+## Skills
+
+```
+Qt / QML        ████████████████████  90%
+Yocto / Linux   ████████████████░░░░  80%
+C / C++         ██████████████░░░░░░  70%
+Bash / Arduino  ███████████████░░░░░  75%
+Python          ████████████░░░░░░░░  60%
+Android / Java  █████████████░░░░░░░  65%
+```
+
+---
+
+## Projects
+
+| Project | Description | Lang |
+|---|---|---|
+| [Qt-AES](https://github.com/bricke/Qt-AES) | Native Qt AES encryption class (ECB, CBC, CFB, OFB) | C++ |
+| [bacaro](https://github.com/bricke/bacaro) | Reliable brokerless message bus for IPC | C++ |
+| [MnemoQ](https://github.com/bricke/MnemoQ) | The MQTT client that remembers | C++ | Obsolete
+
+---
+
+## Connect
+
+- 🌐 [mattbrichese.com](http://mattbrichese.com)
+- 💼 [GitHub](https://github.com/bricke)
+
