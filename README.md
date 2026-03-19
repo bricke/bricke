@@ -5,6 +5,10 @@ I build embedded systems, native GUIs, and low-level infrastructure — mostly i
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="100%">
+
 ## About
 
 - 🏢 Working at **ICS Inc**
@@ -13,11 +17,8 @@ I build embedded systems, native GUIs, and low-level infrastructure — mostly i
 - 📡 Interested in messaging protocols: ZeroMQ, MQTT, brokerless IPC
 - 🛠 Enjoy: outdoor, biking, photography, metal fabrication
 
----
-
-<table>
-<tr>
-<td valign="top" width="40%">
+</td>
+<td valign="top" width="100%">
 
 ## Skills
 
@@ -29,18 +30,6 @@ C / C++         ██████████    70%
 Android / Java  █████████     65%
 Python          █████████     60%
 ```
-
-</td>
-<td valign="top" width="60%">
-
-## Projects
-
-| Project | Description | Lang |
-|---|---|---|
-| [Qt-AES](https://github.com/bricke/Qt-AES) | Native Qt AES encryption class (ECB, CBC, CFB, OFB) | C++ |
-| [tiny-AES-C](https://github.com/bricke/tiny-AES-C) | Small portable AES128 in C | C |
-| [bacaro](https://github.com/bricke/bacaro) | Reliable brokerless message bus for IPC | C++ |
-| [MnemoQ](https://github.com/bricke/MnemoQ) | The MQTT client that remembers -Obsolete- | C++ |
 
 </td>
 </tr>
