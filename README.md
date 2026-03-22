@@ -6,6 +6,7 @@ I build embedded systems, native GUIs, and low-level infrastructure — mostly i
 ## About
 - 🏢 Working at **ICS Inc**
 - 🎓 Computer Science — Ca'Foscari University of Venice
-- 🔐 Author of [Qt-AES](https://github.com/bricke/Qt-AES) — a native AES encryption class for Qt (500+ ⭐)
+- 🔒 Author of [Qt-AES](https://github.com/bricke/Qt-AES) — a native AES encryption class for Qt (500+ ⭐)
+- :octocat: Author of [meta-mir](https://github.com/bricke/meta-mir) - a Yocto meta layer for [Mir](https://github.com/canonical/mir)
 - 📡 Interested in messaging protocols: ZeroMQ, MQTT, brokerless IPC
-- 🛠 Enjoy: outdoor, biking, photography, metal fabrication
+- 🕶️ Enjoy: outdoor, biking, photography, metal fabrication
